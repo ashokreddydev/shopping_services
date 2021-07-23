@@ -1,0 +1,70 @@
+/* 1 */
+[
+{
+    "_id" : "60faa1c059a46457e2d3a08e",
+    "size" : [ 
+        "XS", 
+        "S", 
+        "M", 
+        "ML", 
+        "L", 
+        "XL", 
+        "XXL"
+    ],
+    "shipping" : {
+        "free" : true,
+        "price" : 0
+    },
+    "title" : "Solid Men Polo Neck Black T-Shirt",
+    "image" : "https://rukminim1.flixcart.com/image/660/792/kb5eikw0/t-shirt/g/3/j/m-bv1195-010-nike-original-imafsg2gbgq5xryn.jpeg?q=50",
+    "description" : "",
+    "price" : 13.99,
+    "seller" : {
+        "vendor" : "xyz"
+    },
+    "__v" : 0
+},
+{
+    "_id" : "60faa20559a46457e2d3a08f",
+    "size" : [ 
+        "XS", 
+        "S"
+    ],
+    "shipping" : {
+        "free" : true,
+        "price" : 0
+    },
+    "title" : "Solid Men Polo Neck White T-Shirt",
+    "image" : "https://rukminim1.flixcart.com/image/432/518/k65d18w0/t-shirt/n/a/k/m-bv1195-100-nike-original-imafzhb2txpmzzzj.jpeg?q=70",
+    "description" : "",
+    "price" : 15.99,
+    "seller" : {
+        "vendor" : "xyz"
+    },
+    "__v" : 0
+},
+{
+    "_id" : "60faa26459a46457e2d3a090",
+    "size" : [ 
+        "XS", 
+        "S", 
+        "M", 
+        "ML", 
+        "L", 
+        "XL", 
+        "XXL"
+    ],
+    "shipping" : {
+        "free" : false,
+        "price" : 20
+    },
+    "title" : "Solid Men Polo Neck White T-Shirt-2",
+    "image" : "https://rukminim1.flixcart.com/image/432/518/k65d18w0/t-shirt/n/a/k/m-bv1195-100-nike-original-imafzhb2txpmzzzj.jpeg?q=70",
+    "description" : "",
+    "price" : 13.99,
+    "seller" : {
+        "vendor" : "xyz"
+    },
+    "__v" : 0
+}
+]
